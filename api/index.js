@@ -11,16 +11,16 @@ export default async function handler(req, res) {
     return;
   }
 
-  const { type, query, bookId, episode } = req.query;
+  const { type, query, bookId, episode, genre } = req.query;
 
   try {
     let result;
     switch (type) {
       case 'home':
-        result = await dramabox.home();
+        result = await dramabox.home(genre);
         break;
       case 'search':
-        result = await dramabox.search(query);
+        result = await dramabox.search(query, genre);
         break;
       case 'detail':
         result = await dramabox.detail(bookId);
@@ -28,8 +28,11 @@ export default async function handler(req, res) {
       case 'stream':
         result = await dramabox.stream(bookId, episode);
         break;
+      case 'genres':
+        result = await dramabox.genres();
+        break;
       default:
-        return res.status(400).json({ error: 'Invalid type. Use home, search, detail, stream', source: 'dramabox.com/in' });
+        return res.status(400).json({ error: 'Invalid type. Use home, search, detail, stream, genres', source: 'dramabox.com/in' });
     }
     res.status(200).json(result);
   } catch (error) {

@@ -1,643 +1,1402 @@
 [
   {
-    "bookId": "42000028298",
-    "bookName": "Kembali Sebagai Bosmu",
-    "cover": "https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000028298/42000028298.jpg",
-    "introduction": "Demi cinta, Linda rela melepaskan kekayaannya...",
-    "chapterCount": 51,
-    "playCount": "321K",
-    "tagNames": [
-      "Perselingkuhan",
-      "Penyesalan",
-      "Balas Dendam"
-    ]
-  },
-  {
-    "bookId": "42000026080",
-    "bookName": "Racun Cinta Sang Mafia",
-    "cover": "https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000026080/42000026080.jpg",
-    "introduction": "Di hari pernikahan saudari tirinya...",
-    "chapterCount": 56,
-    "playCount": "177K",
-    "tagNames": [
-      "Mafia",
-      "Cinta Paksaan"
-    ]
-  },
-  {
-    "bookId": "41000105764",
-    "bookName": "Cinta Membara di Dalam Kebohongan",
-    "cover": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000106220/41000106220.jpg",
-    "introduction": "Kakaknya Melia, yaitu Jenia, merebut pacar adiknya...",
-    "chapterCount": 59,
-    "playCount": "141K",
-    "tagNames": [
-      "Romansa"
-    ]
-  },
-  {
-    "bookId": "42000026601",
-    "bookName": "Takhta Di Balik Penyamaran",
-    "cover": "https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000026601/42000026601.jpg",
-    "introduction": "Setelah tujuh tahun bersembunyi...",
-    "chapterCount": 41,
-    "playCount": "118K",
-    "tagNames": [
-      "Wanita Kuat",
-      "Fantasi"
-    ]
-  },
-  {
-    "bookId": "42000027287",
-    "bookName": "Tidur dengan Ayah Sahabatku",
-    "cover": "https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000027287/42000027287.jpg",
-    "introduction": "Setelah memergoki tunangannya selingkuh...",
-    "chapterCount": 51,
-    "playCount": "114K",
-    "tagNames": [
-      "Cinta Terlarang",
-      "Gairah"
-    ]
-  },
-  {
-    "bookId": "42000025364",
-    "bookName": "Hati Yang Dihancurkan",
-    "cover": "https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000025364/42000025364.jpg",
-    "introduction": "Mia rela mengorbankan segalanya...",
-    "chapterCount": 52,
-    "playCount": "113K",
-    "tagNames": [
-      "Pembalikan Identitas",
-      "Balas Dendam"
-    ]
-  },
-  {
-    "bookId": "42000024940",
-    "bookName": "Penyesalan Terakhir Sang Pangeran",
-    "cover": "https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000024940/42000024940.jpg",
-    "introduction": "Setelah pesta topeng...",
-    "chapterCount": 51,
-    "playCount": "113K",
-    "tagNames": [
-      "Salah Identitas",
-      "Penyesalan"
-    ]
-  },
-  {
-    "bookId": "41000110515",
-    "bookName": "Hatiku Diretas Virus Cintamu",
-    "cover": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000112164/41000112164.jpg",
-    "introduction": "Hermione Garcia, putri Keluarga Garcia...",
-    "chapterCount": 53,
-    "playCount": "98K",
-    "tagNames": [
-      "Romansa"
-    ]
-  },
-  {
-    "bookId": "41000110102",
-    "bookName": "Kontrak Pernikahan Sang CEO Yang Terlarang",
-    "introduction": "Kontrak Pernikahan Sang CEO Yang Terlarang adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000110102/41000110102.jpg",
-    "chapterCount": 54,
-    "playCount": "89.4K",
-    "tags": [
-      "Mafia",
-      "Romansa",
-      "Balas Dendam"
-    ]
-  },
-  {
-    "bookId": "41000110768",
-    "bookName": "Mafia Kejam: Air Mata Abadi",
-    "introduction": "Mafia Kejam: Air Mata Abadi adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000110768/41000110768.jpg",
-    "chapterCount": 50,
-    "playCount": "88.8K",
-    "tags": [
-      "Romansa",
-      "CEO",
-      "Pernikahan Kontrak"
-    ]
-  },
-  {
-    "bookId": "42000029868",
-    "bookName": "Raja Dalam Diam - Mantan",
-    "introduction": "Raja Dalam Diam - Mantan adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://s3.amazonaws.com/dramabox/cover/42000029868.jpg",
-    "chapterCount": 91,
-    "playCount": "88.8K",
-    "tags": [
-      "Romansa",
-      "Dokter",
-      "CEO"
-    ]
-  },
-  {
-    "bookId": "42000029020",
-    "bookName": "Cinta Ibu Tiri",
-    "introduction": "Cinta Ibu Tiri adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://s3.amazonaws.com/dramabox/cover/42000029020.jpg",
-    "chapterCount": 64,
-    "playCount": "88.7K",
-    "tags": [
-      "Werewolf",
-      "Romansa",
-      "Fantasi"
-    ]
-  },
-  {
-    "bookId": "42000029617",
-    "bookName": "Bawahan: Kontrak Pernikahan Terakhir",
-    "introduction": "Bawahan: Kontrak Pernikahan Terakhir adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://s3.amazonaws.com/dramabox/cover/42000029617.jpg",
-    "chapterCount": 48,
-    "playCount": "88.7K",
-    "tags": [
-      "CEO",
-      "Romansa",
-      "Kehamilan"
-    ]
-  },
-  {
-    "bookId": "42000030031",
-    "bookName": "Alpha Di Ujung Malam - Alpha Dominan",
-    "introduction": "Alpha Di Ujung Malam - Alpha Dominan adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://s3.amazonaws.com/dramabox/cover/42000030031.jpg",
-    "chapterCount": 77,
-    "playCount": "88.6K",
-    "tags": [
-      "Romansa",
-      "Mafia",
-      "CEO"
-    ]
-  },
-  {
-    "bookId": "42000029250",
-    "bookName": "Jebakan Yang Terlarang - Bawahan",
-    "introduction": "Jebakan Yang Terlarang - Bawahan adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://s3.amazonaws.com/dramabox/cover/42000029250.jpg",
-    "chapterCount": 89,
-    "playCount": "88.6K",
-    "tags": [
-      "Romansa",
-      "Dokter",
-      "CEO"
-    ]
-  },
-  {
-    "bookId": "41000110393",
-    "bookName": "Takdir Supir",
-    "introduction": "Takdir Supir adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000110393/41000110393.jpg",
-    "chapterCount": 68,
-    "playCount": "88.5K",
-    "tags": [
-      "Romansa",
-      "Komedi",
-      "CEO"
-    ]
-  },
-  {
-    "bookId": "42000029717",
-    "bookName": "CEO Dingin Miliarder",
-    "introduction": "CEO Dingin Miliarder adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000029717/42000029717.jpg",
-    "chapterCount": 82,
-    "playCount": "88.5K",
-    "tags": [
-      "Romansa",
-      "Keluarga",
-      "Air Mata"
-    ]
-  },
-  {
-    "bookId": "42000029105",
-    "bookName": "Ratu Bos Besar Yang Tak Terduga",
-    "introduction": "Ratu Bos Besar Yang Tak Terduga adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000029105/42000029105.jpg",
-    "chapterCount": 66,
-    "playCount": "88.4K",
-    "tags": [
-      "Balas Dendam",
-      "Romansa",
-      "CEO Dingin"
-    ]
-  },
-  {
-    "bookId": "42000029364",
-    "bookName": "Balas Dendam Miliarder Yang Kedua",
-    "introduction": "Balas Dendam Miliarder Yang Kedua adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000029364/42000029364.jpg",
-    "chapterCount": 50,
-    "playCount": "88.2K",
-    "tags": [
-      "Romansa",
-      "Dokter",
-      "CEO"
-    ]
-  },
-  {
-    "bookId": "42000030239",
-    "bookName": "Putri Pria Misterius Terakhir",
-    "introduction": "Putri Pria Misterius Terakhir adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000030239/42000030239.jpg",
-    "chapterCount": 68,
-    "playCount": "87.8K",
-    "tags": [
-      "Balas Dendam",
-      "Romansa",
-      "CEO Dingin"
-    ]
-  },
-  {
-    "bookId": "42000029312",
-    "bookName": "Istri Tetangga Di Balik Topeng",
-    "introduction": "Istri Tetangga Di Balik Topeng adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000029312/42000029312.jpg",
-    "chapterCount": 60,
-    "playCount": "87.8K",
-    "tags": [
-      "Balas Dendam",
-      "Romansa",
-      "CEO Dingin"
-    ]
-  },
-  {
-    "bookId": "41000110084",
-    "bookName": "Dosa Di Ujung Malam - Sekretaris",
-    "introduction": "Dosa Di Ujung Malam - Sekretaris adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000110084/41000110084.jpg",
-    "chapterCount": 48,
-    "playCount": "87.6K",
-    "tags": [
-      "Fantasi",
-      "Romansa",
-      "Reinkarnasi"
-    ]
-  },
-  {
-    "bookId": "41000110642",
-    "bookName": "Serigala Ibu Tiri",
-    "introduction": "Serigala Ibu Tiri adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000110642/41000110642.jpg",
-    "chapterCount": 68,
-    "playCount": "87.4K",
-    "tags": [
-      "Fantasi",
-      "Romansa",
-      "Reinkarnasi"
-    ]
-  },
-  {
-    "bookId": "41000110810",
-    "bookName": "Alpha Dominan: Kisah Yang Terlarang",
-    "introduction": "Alpha Dominan: Kisah Yang Terlarang adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000110810/41000110810.jpg",
-    "chapterCount": 88,
-    "playCount": "87.4K",
-    "tags": [
-      "Werewolf",
-      "Romansa",
-      "Fantasi"
-    ]
-  },
-  {
-    "bookId": "41000110053",
-    "bookName": "Balas Dendam Supir",
-    "introduction": "Balas Dendam Supir adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://s3.amazonaws.com/dramabox/cover/41000110053.jpg",
-    "chapterCount": 48,
-    "playCount": "87.3K",
-    "tags": [
-      "Romansa",
-      "Komedi",
-      "CEO"
-    ]
-  },
-  {
-    "bookId": "41000110530",
-    "bookName": "Supir: Jebakan Penuh Air Mata",
-    "introduction": "Supir: Jebakan Penuh Air Mata adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000110530/41000110530.jpg",
-    "chapterCount": 68,
-    "playCount": "86.7K",
-    "tags": [
-      "Balas Dendam",
-      "Romansa",
-      "CEO Dingin"
-    ]
-  },
-  {
-    "bookId": "42000029210",
-    "bookName": "Kontrak Pernikahan Sahabat Yang Menyakitkan",
-    "introduction": "Kontrak Pernikahan Sahabat Yang Menyakitkan adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://s3.amazonaws.com/dramabox/cover/42000029210.jpg",
-    "chapterCount": 71,
-    "playCount": "86.3K",
-    "tags": [
-      "Keluarga",
-      "Romansa",
-      "CEO"
-    ]
-  },
-  {
-    "bookId": "42000029510",
-    "bookName": "Alpha Duda Tampan Yang Terlarang",
-    "introduction": "Alpha Duda Tampan Yang Terlarang adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000029510/42000029510.jpg",
-    "chapterCount": 77,
-    "playCount": "86.3K",
-    "tags": [
-      "CEO",
-      "Pernikahan Paksa",
-      "Romansa"
-    ]
-  },
-  {
-    "bookId": "41000110857",
-    "bookName": "Takdir Suami Dingin Tanpa Cinta",
-    "introduction": "Takdir Suami Dingin Tanpa Cinta adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000110857/41000110857.jpg",
-    "chapterCount": 92,
-    "playCount": "86.1K",
-    "tags": [
-      "Balas Dendam",
-      "Romansa",
-      "CEO Dingin"
-    ]
-  },
-  {
-    "bookId": "41000110511",
-    "bookName": "Pengantin Bos Besar",
-    "introduction": "Pengantin Bos Besar adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://s3.amazonaws.com/dramabox/cover/41000110511.jpg",
-    "chapterCount": 50,
-    "playCount": "85.9K",
-    "tags": [
-      "Romansa",
-      "Komedi",
-      "CEO"
-    ]
-  },
-  {
-    "bookId": "42000030089",
-    "bookName": "Bayi Yang Terlarang - Miliarder",
-    "introduction": "Bayi Yang Terlarang - Miliarder adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000030089/42000030089.jpg",
-    "chapterCount": 85,
-    "playCount": "85.7K",
-    "tags": [
-      "Werewolf",
-      "Romansa",
-      "Fantasi"
-    ]
-  },
-  {
-    "bookId": "41000110155",
-    "bookName": "Mafia Kejam: Putri Di Ujung Malam",
-    "introduction": "Mafia Kejam: Putri Di Ujung Malam adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000110155/41000110155.jpg",
-    "chapterCount": 46,
-    "playCount": "85.5K",
-    "tags": [
-      "Fantasi",
-      "Romansa",
-      "Reinkarnasi"
-    ]
-  },
-  {
-    "bookId": "42000029569",
-    "bookName": "Bayi Berbahaya - Miliarder",
-    "introduction": "Bayi Berbahaya - Miliarder adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000029569/42000029569.jpg",
-    "chapterCount": 80,
-    "playCount": "84.9K",
-    "tags": [
-      "Balas Dendam",
-      "Romansa",
-      "CEO Dingin"
-    ]
-  },
-  {
-    "bookId": "42000030126",
-    "bookName": "Suami Dingin: Jebakan Berbahaya",
-    "introduction": "Suami Dingin: Jebakan Berbahaya adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000030126/42000030126.jpg",
-    "chapterCount": 75,
-    "playCount": "84.5K",
-    "tags": [
-      "Romansa",
-      "Dokter",
-      "CEO"
-    ]
-  },
-  {
-    "bookId": "42000030064",
-    "bookName": "Pria Misterius: Pewaris Penuh Air Mata",
-    "introduction": "Pria Misterius: Pewaris Penuh Air Mata adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000030064/42000030064.jpg",
-    "chapterCount": 74,
-    "playCount": "84.2K",
-    "tags": [
-      "Romansa",
-      "Komedi",
-      "CEO"
-    ]
-  },
-  {
-    "bookId": "42000029425",
-    "bookName": "Tetangga: Rahasia Yang Tak Terduga",
-    "introduction": "Tetangga: Rahasia Yang Tak Terduga adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000029425/42000029425.jpg",
-    "chapterCount": 87,
-    "playCount": "84.2K",
-    "tags": [
-      "Balas Dendam",
-      "Romansa",
-      "CEO Dingin"
-    ]
-  },
-  {
-    "bookId": "41000110150",
-    "bookName": "Takdir Alpha Dominan Berbahaya",
-    "introduction": "Takdir Alpha Dominan Berbahaya adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000110150/41000110150.jpg",
-    "chapterCount": 73,
-    "playCount": "84.1K",
-    "tags": [
-      "Keluarga",
-      "Romansa",
-      "CEO"
-    ]
-  },
-  {
-    "bookId": "42000029911",
-    "bookName": "Anak Haram: Godaan Dalam Diam",
-    "introduction": "Anak Haram: Godaan Dalam Diam adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000029911/42000029911.jpg",
-    "chapterCount": 55,
-    "playCount": "83.8K",
-    "tags": [
-      "CEO",
-      "Romansa",
-      "Kehamilan"
-    ]
-  },
-  {
-    "bookId": "42000030191",
-    "bookName": "Ibu Tiri: Bayi Membara",
-    "introduction": "Ibu Tiri: Bayi Membara adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000030191/42000030191.jpg",
-    "chapterCount": 89,
-    "playCount": "83.7K",
-    "tags": [
-      "Keluarga",
-      "Romansa",
-      "CEO"
-    ]
-  },
-  {
-    "bookId": "42000029107",
-    "bookName": "Dosa Dokter Ganteng",
-    "introduction": "Dosa Dokter Ganteng adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000029107/42000029107.jpg",
-    "chapterCount": 52,
-    "playCount": "83.5K",
-    "tags": [
-      "CEO",
-      "Romansa",
-      "Kehamilan"
-    ]
-  },
-  {
-    "bookId": "42000029161",
-    "bookName": "Cinta Sang CEO",
-    "introduction": "Cinta Sang CEO adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://s3.amazonaws.com/dramabox/cover/42000029161.jpg",
+    "bookId": "42000031156",
+    "bookName": "Ratu CEO Miliarder Penuh Air Mata",
+    "introduction": "Ratu CEO Miliarder Penuh Air Mata adalah drama pendek viral kategori CEO Wanita dari DramaBox. Kisah ceo wanita, romansa, wanita tangguh penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031156/42000031156.jpg",
     "chapterCount": 47,
-    "playCount": "83.4K",
+    "playCount": "98.5K",
     "tags": [
+      "CEO Wanita",
       "Romansa",
+      "Wanita Tangguh"
+    ],
+    "genre": "CEO Wanita"
+  },
+  {
+    "bookId": "41000121482",
+    "bookName": "Kawin Mendadak dan Atasan Yang Kedua",
+    "introduction": "Kawin Mendadak dan Atasan Yang Kedua adalah drama pendek viral kategori Pernikahan Kilat dari DramaBox. Kisah pernikahan kilat, romansa, ceo penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000121482/41000121482.jpg",
+    "chapterCount": 76,
+    "playCount": "98.4K",
+    "tags": [
+      "Pernikahan Kilat",
+      "Romansa",
+      "CEO"
+    ],
+    "genre": "Pernikahan Kilat"
+  },
+  {
+    "bookId": "41000121559",
+    "bookName": "Dikhianati Milik Raja Iblis",
+    "introduction": "Dikhianati Milik Raja Iblis adalah drama pendek viral kategori Pengkhianatan dari DramaBox. Kisah pengkhianatan, balas dendam, romansa penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000121559/41000121559.jpg",
+    "chapterCount": 52,
+    "playCount": "98.3K",
+    "tags": [
+      "Pengkhianatan",
+      "Balas Dendam",
+      "Romansa"
+    ],
+    "genre": "Pengkhianatan"
+  },
+  {
+    "bookId": "42000031456",
+    "bookName": "Khianat dan Alpha Dominan Yang Sesungguhnya",
+    "introduction": "Khianat dan Alpha Dominan Yang Sesungguhnya adalah drama pendek viral kategori Pengkhianatan dari DramaBox. Kisah pengkhianatan, balas dendam, romansa penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031456/42000031456.jpg",
+    "chapterCount": 94,
+    "playCount": "98.3K",
+    "tags": [
+      "Pengkhianatan",
+      "Balas Dendam",
+      "Romansa"
+    ],
+    "genre": "Pengkhianatan"
+  },
+  {
+    "bookId": "41000121702",
+    "bookName": "Putri Darah Keluarga Pertama",
+    "introduction": "Putri Darah Keluarga Pertama adalah drama pendek viral kategori Keluarga dari DramaBox. Kisah keluarga, romansa, air mata penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000121702/41000121702.jpg",
+    "chapterCount": 87,
+    "playCount": "98.3K",
+    "tags": [
       "Keluarga",
-      "Air Mata"
-    ]
-  },
-  {
-    "bookId": "42000029348",
-    "bookName": "Raja Membara - Sahabat",
-    "introduction": "Raja Membara - Sahabat adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://s3.amazonaws.com/dramabox/cover/42000029348.jpg",
-    "chapterCount": 77,
-    "playCount": "83.1K",
-    "tags": [
-      "CEO",
       "Romansa",
-      "Kehamilan"
-    ]
+      "Air Mata"
+    ],
+    "genre": "Keluarga"
   },
   {
-    "bookId": "41000110288",
-    "bookName": "Bawahan: Istri Dalam Diam",
-    "introduction": "Bawahan: Istri Dalam Diam adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000110288/41000110288.jpg",
+    "bookId": "41000120287",
+    "bookName": "Cinta Kontrak Tetangga Yang Pahit",
+    "introduction": "Cinta Kontrak Tetangga Yang Pahit adalah drama pendek viral kategori Kekasih Kontrak dari DramaBox. Kisah kekasih kontrak, romansa, ceo penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000120287/41000120287.jpg",
+    "chapterCount": 46,
+    "playCount": "98.0K",
+    "tags": [
+      "Kekasih Kontrak",
+      "Romansa",
+      "CEO"
+    ],
+    "genre": "Kekasih Kontrak"
+  },
+  {
+    "bookId": "42000031113",
+    "bookName": "Sang CEO: Hidup Kedua Yang Terlupakan",
+    "introduction": "Sang CEO: Hidup Kedua Yang Terlupakan adalah drama pendek viral kategori Kelahiran Kembali dari DramaBox. Kisah kelahiran kembali, balas dendam, romansa penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031113/42000031113.jpg",
+    "chapterCount": 71,
+    "playCount": "97.8K",
+    "tags": [
+      "Kelahiran Kembali",
+      "Balas Dendam",
+      "Romansa"
+    ],
+    "genre": "Kelahiran Kembali"
+  },
+  {
+    "bookId": "42000030675",
+    "bookName": "Dua Hati Yang Terlupakan - Suami Dingin",
+    "introduction": "Dua Hati Yang Terlupakan - Suami Dingin adalah drama pendek viral kategori Cinta Segitiga dari DramaBox. Kisah cinta segitiga, romansa, drama penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000030675/42000030675.jpg",
+    "chapterCount": 64,
+    "playCount": "97.6K",
+    "tags": [
+      "Cinta Segitiga",
+      "Romansa",
+      "Drama"
+    ],
+    "genre": "Cinta Segitiga"
+  },
+  {
+    "bookId": "42000031151",
+    "bookName": "Bos Besar: Tubuh Baja Berbahaya",
+    "introduction": "Bos Besar: Tubuh Baja Berbahaya adalah drama pendek viral kategori Orang Kuat dari DramaBox. Kisah orang kuat, kekuatan super, balas dendam penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031151/42000031151.jpg",
+    "chapterCount": 61,
+    "playCount": "97.6K",
+    "tags": [
+      "Orang Kuat",
+      "Kekuatan Super",
+      "Balas Dendam"
+    ],
+    "genre": "Orang Kuat"
+  },
+  {
+    "bookId": "42000031049",
+    "bookName": "Wanita Tangguh Ratu Yang Terlupakan",
+    "introduction": "Wanita Tangguh Ratu Yang Terlupakan adalah drama pendek viral kategori Wanita Tangguh dari DramaBox. Kisah wanita tangguh, balas dendam, ceo penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031049/42000031049.jpg",
+    "chapterCount": 99,
+    "playCount": "97.4K",
+    "tags": [
+      "Wanita Tangguh",
+      "Balas Dendam",
+      "CEO"
+    ],
+    "genre": "Wanita Tangguh"
+  },
+  {
+    "bookId": "41000121363",
+    "bookName": "Pendekar Turun Gunung Di Balik Topeng - Sang CEO",
+    "introduction": "Pendekar Turun Gunung Di Balik Topeng - Sang CEO adalah drama pendek viral kategori Ahli Turun Gunung dari DramaBox. Kisah ahli turun gunung, kekuatan super, urban penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000121363/41000121363.jpg",
+    "chapterCount": 81,
+    "playCount": "97.3K",
+    "tags": [
+      "Ahli Turun Gunung",
+      "Kekuatan Super",
+      "Urban"
+    ],
+    "genre": "Ahli Turun Gunung"
+  },
+  {
+    "bookId": "42000031594",
+    "bookName": "Siapa Aku Milik Ratu",
+    "introduction": "Siapa Aku Milik Ratu adalah drama pendek viral kategori Identitas Tersembunyi dari DramaBox. Kisah identitas tersembunyi, ceo, balas dendam penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031594/42000031594.jpg",
+    "chapterCount": 90,
+    "playCount": "97.2K",
+    "tags": [
+      "Identitas Tersembunyi",
+      "CEO",
+      "Balas Dendam"
+    ],
+    "genre": "Identitas Tersembunyi"
+  },
+  {
+    "bookId": "42000030910",
+    "bookName": "Miliarder Cinta Tulus Yang Pahit",
+    "introduction": "Miliarder Cinta Tulus Yang Pahit adalah drama pendek viral kategori Cinta Sejati dari DramaBox. Kisah cinta sejati, romansa, keluarga penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000030910/42000030910.jpg",
+    "chapterCount": 80,
+    "playCount": "97.2K",
+    "tags": [
+      "Cinta Sejati",
+      "Romansa",
+      "Keluarga"
+    ],
+    "genre": "Cinta Sejati"
+  },
+  {
+    "bookId": "41000120502",
+    "bookName": "Dewa Naga Sang CEO",
+    "introduction": "Dewa Naga Sang CEO adalah drama pendek viral kategori Naga dari DramaBox. Kisah naga, kekuatan super, fantasi penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000120502/41000120502.jpg",
+    "chapterCount": 46,
+    "playCount": "97.2K",
+    "tags": [
+      "Naga",
+      "Kekuatan Super",
+      "Fantasi"
+    ],
+    "genre": "Naga"
+  },
+  {
+    "bookId": "42000031351",
+    "bookName": "Ketika Ahli Turun Gunung Bertemu Mafia Kejam",
+    "introduction": "Ketika Ahli Turun Gunung Bertemu Mafia Kejam adalah drama pendek viral kategori Ahli Turun Gunung dari DramaBox. Kisah ahli turun gunung, kekuatan super, urban penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031351/42000031351.jpg",
+    "chapterCount": 99,
+    "playCount": "96.9K",
+    "tags": [
+      "Ahli Turun Gunung",
+      "Kekuatan Super",
+      "Urban"
+    ],
+    "genre": "Ahli Turun Gunung"
+  },
+  {
+    "bookId": "42000030294",
+    "bookName": "Pernikahan Kontrak Pangeran Berbahaya",
+    "introduction": "Pernikahan Kontrak Pangeran Berbahaya adalah drama pendek viral kategori Kawin Kontrak dari DramaBox. Kisah kawin kontrak, romansa, ceo penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000030294/42000030294.jpg",
+    "chapterCount": 77,
+    "playCount": "96.8K",
+    "tags": [
+      "Kawin Kontrak",
+      "Romansa",
+      "CEO"
+    ],
+    "genre": "Kawin Kontrak"
+  },
+  {
+    "bookId": "42000031627",
+    "bookName": "Identitas Tersembunyi Suami Dingin Yang Setia",
+    "introduction": "Identitas Tersembunyi Suami Dingin Yang Setia adalah drama pendek viral kategori Identitas Tersembunyi dari DramaBox. Kisah identitas tersembunyi, ceo, balas dendam penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031627/42000031627.jpg",
+    "chapterCount": 90,
+    "playCount": "96.6K",
+    "tags": [
+      "Identitas Tersembunyi",
+      "CEO",
+      "Balas Dendam"
+    ],
+    "genre": "Identitas Tersembunyi"
+  },
+  {
+    "bookId": "42000031249",
+    "bookName": "Putri: Tabib Sakti Penuh Dendam",
+    "introduction": "Putri: Tabib Sakti Penuh Dendam adalah drama pendek viral kategori Dokter Dewa dari DramaBox. Kisah dokter dewa, kekuatan super, urban penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031249/42000031249.jpg",
+    "chapterCount": 102,
+    "playCount": "96.5K",
+    "tags": [
+      "Dokter Dewa",
+      "Kekuatan Super",
+      "Urban"
+    ],
+    "genre": "Dokter Dewa"
+  },
+  {
+    "bookId": "42000030864",
+    "bookName": "Manis Penuh Dendam",
+    "introduction": "Manis Penuh Dendam adalah drama pendek viral kategori Manis dari DramaBox. Kisah manis, romansa, komedi penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000030864/42000030864.jpg",
+    "chapterCount": 100,
+    "playCount": "96.5K",
+    "tags": [
+      "Manis",
+      "Romansa",
+      "Komedi"
+    ],
+    "genre": "Manis"
+  },
+  {
+    "bookId": "42000030493",
+    "bookName": "Ayah Dewa Naga Abadi",
+    "introduction": "Ayah Dewa Naga Abadi adalah drama pendek viral kategori Naga dari DramaBox. Kisah naga, kekuatan super, fantasi penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000030493/42000030493.jpg",
+    "chapterCount": 54,
+    "playCount": "96.4K",
+    "tags": [
+      "Naga",
+      "Kekuatan Super",
+      "Fantasi"
+    ],
+    "genre": "Naga"
+  },
+  {
+    "bookId": "42000030683",
+    "bookName": "Cinta Segitiga Duda Tampan",
+    "introduction": "Cinta Segitiga Duda Tampan adalah drama pendek viral kategori Cinta Segitiga dari DramaBox. Kisah cinta segitiga, romansa, drama penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000030683/42000030683.jpg",
+    "chapterCount": 69,
+    "playCount": "96.3K",
+    "tags": [
+      "Cinta Segitiga",
+      "Romansa",
+      "Drama"
+    ],
+    "genre": "Cinta Segitiga"
+  },
+  {
+    "bookId": "42000030747",
+    "bookName": "Ayah: Nikah Dulu Yang Setia",
+    "introduction": "Ayah: Nikah Dulu Yang Setia adalah drama pendek viral kategori Nikah Dulu Cinta Belakangan dari DramaBox. Kisah nikah dulu cinta belakangan, romansa, keluarga penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000030747/42000030747.jpg",
+    "chapterCount": 73,
+    "playCount": "96.2K",
+    "tags": [
+      "Nikah Dulu Cinta Belakangan",
+      "Romansa",
+      "Keluarga"
+    ],
+    "genre": "Nikah Dulu Cinta Belakangan"
+  },
+  {
+    "bookId": "42000030717",
+    "bookName": "Cinta Terbelah Yang Hilang",
+    "introduction": "Cinta Terbelah Yang Hilang adalah drama pendek viral kategori Cinta Segitiga dari DramaBox. Kisah cinta segitiga, romansa, drama penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000030717/42000030717.jpg",
+    "chapterCount": 87,
+    "playCount": "96.1K",
+    "tags": [
+      "Cinta Segitiga",
+      "Romansa",
+      "Drama"
+    ],
+    "genre": "Cinta Segitiga"
+  },
+  {
+    "bookId": "42000031126",
+    "bookName": "Luka Cinta dan Miliarder Yang Tak Terduga",
+    "introduction": "Luka Cinta dan Miliarder Yang Tak Terduga adalah drama pendek viral kategori Cinta Pahit dari DramaBox. Kisah cinta pahit, romansa, air mata penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031126/42000031126.jpg",
+    "chapterCount": 87,
+    "playCount": "96.1K",
+    "tags": [
+      "Cinta Pahit",
+      "Romansa",
+      "Air Mata"
+    ],
+    "genre": "Cinta Pahit"
+  },
+  {
+    "bookId": "42000021358",
+    "bookName": "Aku Ternyata Sang Dewa Naga!",
+    "introduction": "Aku Ternyata Sang Dewa Naga! adalah drama pendek viral kategori Naga dari DramaBox. Kisah naga, kekuatan super, fantasi penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000021358/42000021358.jpg",
+    "chapterCount": 68,
+    "playCount": "96.0K",
+    "tags": [
+      "Naga",
+      "Kekuatan Super",
+      "Fantasi"
+    ],
+    "genre": "Naga"
+  },
+  {
+    "bookId": "42000030567",
+    "bookName": "Bos Wanita Yang Terlupakan",
+    "introduction": "Bos Wanita Yang Terlupakan adalah drama pendek viral kategori CEO Wanita dari DramaBox. Kisah ceo wanita, romansa, wanita tangguh penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000030567/42000030567.jpg",
+    "chapterCount": 78,
+    "playCount": "96.0K",
+    "tags": [
+      "CEO Wanita",
+      "Romansa",
+      "Wanita Tangguh"
+    ],
+    "genre": "CEO Wanita"
+  },
+  {
+    "bookId": "42000030417",
+    "bookName": "Kembali Hidup Di Ujung Malam - Bos Besar",
+    "introduction": "Kembali Hidup Di Ujung Malam - Bos Besar adalah drama pendek viral kategori Kelahiran Kembali dari DramaBox. Kisah kelahiran kembali, balas dendam, romansa penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000030417/42000030417.jpg",
+    "chapterCount": 91,
+    "playCount": "95.9K",
+    "tags": [
+      "Kelahiran Kembali",
+      "Balas Dendam",
+      "Romansa"
+    ],
+    "genre": "Kelahiran Kembali"
+  },
+  {
+    "bookId": "42000031708",
+    "bookName": "Ratu Kebangkitan Orang Kuat Yang Sesungguhnya",
+    "introduction": "Ratu Kebangkitan Orang Kuat Yang Sesungguhnya adalah drama pendek viral kategori Kembali Orang Kuat dari DramaBox. Kisah kembali orang kuat, kekuatan super, balas dendam penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031708/42000031708.jpg",
+    "chapterCount": 69,
+    "playCount": "95.8K",
+    "tags": [
+      "Kembali Orang Kuat",
+      "Kekuatan Super",
+      "Balas Dendam"
+    ],
+    "genre": "Kembali Orang Kuat"
+  },
+  {
+    "bookId": "41000121887",
+    "bookName": "Tetangga Hidup Nyata Penuh Dendam",
+    "introduction": "Tetangga Hidup Nyata Penuh Dendam adalah drama pendek viral kategori Realitas dari DramaBox. Kisah realitas, keluarga, drama penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000121887/41000121887.jpg",
+    "chapterCount": 63,
+    "playCount": "95.7K",
+    "tags": [
+      "Realitas",
+      "Keluarga",
+      "Drama"
+    ],
+    "genre": "Realitas"
+  },
+  {
+    "bookId": "42000030532",
+    "bookName": "Orang Kuat Pangeran",
+    "introduction": "Orang Kuat Pangeran adalah drama pendek viral kategori Orang Kuat dari DramaBox. Kisah orang kuat, kekuatan super, balas dendam penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000030532/42000030532.jpg",
+    "chapterCount": 74,
+    "playCount": "95.7K",
+    "tags": [
+      "Orang Kuat",
+      "Kekuatan Super",
+      "Balas Dendam"
+    ],
+    "genre": "Orang Kuat"
+  },
+  {
+    "bookId": "42000031160",
+    "bookName": "Direktur Wanita Di Ujung Malam - Pewaris Tahta",
+    "introduction": "Direktur Wanita Di Ujung Malam - Pewaris Tahta adalah drama pendek viral kategori CEO Wanita dari DramaBox. Kisah ceo wanita, romansa, wanita tangguh penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031160/42000031160.jpg",
+    "chapterCount": 65,
+    "playCount": "95.0K",
+    "tags": [
+      "CEO Wanita",
+      "Romansa",
+      "Wanita Tangguh"
+    ],
+    "genre": "CEO Wanita"
+  },
+  {
+    "bookId": "42000031722",
+    "bookName": "Kembali Kuat Yang Menyakitkan - Sekretaris",
+    "introduction": "Kembali Kuat Yang Menyakitkan - Sekretaris adalah drama pendek viral kategori Kembali Orang Kuat dari DramaBox. Kisah kembali orang kuat, kekuatan super, balas dendam penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031722/42000031722.jpg",
+    "chapterCount": 86,
+    "playCount": "94.9K",
+    "tags": [
+      "Kembali Orang Kuat",
+      "Kekuatan Super",
+      "Balas Dendam"
+    ],
+    "genre": "Kembali Orang Kuat"
+  },
+  {
+    "bookId": "42000031309",
+    "bookName": "Misteri Keluarga Milik Duda Tampan",
+    "introduction": "Misteri Keluarga Milik Duda Tampan adalah drama pendek viral kategori Misteri dari DramaBox. Kisah misteri, romansa, thriller penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031309/42000031309.jpg",
+    "chapterCount": 66,
+    "playCount": "94.8K",
+    "tags": [
+      "Misteri",
+      "Romansa",
+      "Thriller"
+    ],
+    "genre": "Misteri"
+  },
+  {
+    "bookId": "42000031277",
+    "bookName": "Misteri Cinta Milik Sahabat",
+    "introduction": "Misteri Cinta Milik Sahabat adalah drama pendek viral kategori Misteri dari DramaBox. Kisah misteri, romansa, thriller penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031277/42000031277.jpg",
+    "chapterCount": 75,
+    "playCount": "94.8K",
+    "tags": [
+      "Misteri",
+      "Romansa",
+      "Thriller"
+    ],
+    "genre": "Misteri"
+  },
+  {
+    "bookId": "42000031116",
+    "bookName": "Luka Cinta dan Alpha Dominan Yang Menyakitkan",
+    "introduction": "Luka Cinta dan Alpha Dominan Yang Menyakitkan adalah drama pendek viral kategori Cinta Pahit dari DramaBox. Kisah cinta pahit, romansa, air mata penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031116/42000031116.jpg",
+    "chapterCount": 60,
+    "playCount": "94.8K",
+    "tags": [
+      "Cinta Pahit",
+      "Romansa",
+      "Air Mata"
+    ],
+    "genre": "Cinta Pahit"
+  },
+  {
+    "bookId": "41000120529",
+    "bookName": "Petarung Ratu",
+    "introduction": "Petarung Ratu adalah drama pendek viral kategori Orang Kuat dari DramaBox. Kisah orang kuat, kekuatan super, balas dendam penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000120529/41000120529.jpg",
     "chapterCount": 79,
-    "playCount": "83.1K",
+    "playCount": "94.7K",
+    "tags": [
+      "Orang Kuat",
+      "Kekuatan Super",
+      "Balas Dendam"
+    ],
+    "genre": "Orang Kuat"
+  },
+  {
+    "bookId": "41000121741",
+    "bookName": "Jagoan Kembali Pertama - Ratu",
+    "introduction": "Jagoan Kembali Pertama - Ratu adalah drama pendek viral kategori Kembali Orang Kuat dari DramaBox. Kisah kembali orang kuat, kekuatan super, balas dendam penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000121741/41000121741.jpg",
+    "chapterCount": 49,
+    "playCount": "94.6K",
+    "tags": [
+      "Kembali Orang Kuat",
+      "Kekuatan Super",
+      "Balas Dendam"
+    ],
+    "genre": "Kembali Orang Kuat"
+  },
+  {
+    "bookId": "42000031430",
+    "bookName": "Pengkhianatan Cinta Milik Bos Besar",
+    "introduction": "Pengkhianatan Cinta Milik Bos Besar adalah drama pendek viral kategori Pengkhianatan dari DramaBox. Kisah pengkhianatan, balas dendam, romansa penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031430/42000031430.jpg",
+    "chapterCount": 86,
+    "playCount": "94.6K",
+    "tags": [
+      "Pengkhianatan",
+      "Balas Dendam",
+      "Romansa"
+    ],
+    "genre": "Pengkhianatan"
+  },
+  {
+    "bookId": "41000121622",
+    "bookName": "Mesin Waktu Milik Raja",
+    "introduction": "Mesin Waktu Milik Raja adalah drama pendek viral kategori Perjalanan Waktu dari DramaBox. Kisah perjalanan waktu, fantasi, romansa penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000121622/41000121622.jpg",
+    "chapterCount": 77,
+    "playCount": "94.5K",
+    "tags": [
+      "Perjalanan Waktu",
+      "Fantasi",
+      "Romansa"
+    ],
+    "genre": "Perjalanan Waktu"
+  },
+  {
+    "bookId": "42000031506",
+    "bookName": "Warisan Sang CEO Yang Manis",
+    "introduction": "Warisan Sang CEO Yang Manis adalah drama pendek viral kategori Kebangkitan Warisan dari DramaBox. Kisah kebangkitan warisan, miliarder, balas dendam penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031506/42000031506.jpg",
+    "chapterCount": 86,
+    "playCount": "94.2K",
+    "tags": [
+      "Kebangkitan Warisan",
+      "Miliarder",
+      "Balas Dendam"
+    ],
+    "genre": "Kebangkitan Warisan"
+  },
+  {
+    "bookId": "42000031273",
+    "bookName": "Rahasia Gelap Mematikan",
+    "introduction": "Rahasia Gelap Mematikan adalah drama pendek viral kategori Misteri dari DramaBox. Kisah misteri, romansa, thriller penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031273/42000031273.jpg",
+    "chapterCount": 99,
+    "playCount": "94.2K",
+    "tags": [
+      "Misteri",
+      "Romansa",
+      "Thriller"
+    ],
+    "genre": "Misteri"
+  },
+  {
+    "bookId": "42000031526",
+    "bookName": "Ketika Mesin Waktu Bertemu Naga Emas",
+    "introduction": "Ketika Mesin Waktu Bertemu Naga Emas adalah drama pendek viral kategori Perjalanan Waktu dari DramaBox. Kisah perjalanan waktu, fantasi, romansa penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031526/42000031526.jpg",
+    "chapterCount": 72,
+    "playCount": "94.1K",
+    "tags": [
+      "Perjalanan Waktu",
+      "Fantasi",
+      "Romansa"
+    ],
+    "genre": "Perjalanan Waktu"
+  },
+  {
+    "bookId": "41000121816",
+    "bookName": "Tertukar Raja Terakhir",
+    "introduction": "Tertukar Raja Terakhir adalah drama pendek viral kategori Identitas Tertukar dari DramaBox. Kisah identitas tertukar, romansa, keluarga penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000121816/41000121816.jpg",
+    "chapterCount": 96,
+    "playCount": "94.1K",
+    "tags": [
+      "Identitas Tertukar",
+      "Romansa",
+      "Keluarga"
+    ],
+    "genre": "Identitas Tertukar"
+  },
+  {
+    "bookId": "42000030393",
+    "bookName": "Sekretaris Rahasia Identitas Pertama",
+    "introduction": "Sekretaris Rahasia Identitas Pertama adalah drama pendek viral kategori Identitas Rahasia dari DramaBox. Kisah identitas rahasia, ceo, balas dendam penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000030393/42000030393.jpg",
+    "chapterCount": 42,
+    "playCount": "94.0K",
+    "tags": [
+      "Identitas Rahasia",
+      "CEO",
+      "Balas Dendam"
+    ],
+    "genre": "Identitas Rahasia"
+  },
+  {
+    "bookId": "42000011130",
+    "bookName": "Tahun Dalam Kebohongan",
+    "introduction": "Tahun Dalam Kebohongan adalah drama pendek viral kategori Kekasih Kontrak dari DramaBox. Kisah kekasih kontrak, romansa, ceo penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000011130/42000011130.jpg",
+    "chapterCount": 43,
+    "playCount": "93.9K",
+    "tags": [
+      "Kekasih Kontrak",
+      "Romansa",
+      "CEO"
+    ],
+    "genre": "Kekasih Kontrak"
+  },
+  {
+    "bookId": "42000030823",
+    "bookName": "Misskom dan Suami Dingin Dalam Diam",
+    "introduction": "Misskom dan Suami Dingin Dalam Diam adalah drama pendek viral kategori Salah Paham dari DramaBox. Kisah salah paham, romansa, komedi penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000030823/42000030823.jpg",
+    "chapterCount": 79,
+    "playCount": "93.8K",
+    "tags": [
+      "Salah Paham",
+      "Romansa",
+      "Komedi"
+    ],
+    "genre": "Salah Paham"
+  },
+  {
+    "bookId": "41000120585",
+    "bookName": "Melawan Takdir Milik Pewaris Tahta",
+    "introduction": "Melawan Takdir Milik Pewaris Tahta adalah drama pendek viral kategori Melawan Balik dari DramaBox. Kisah melawan balik, balas dendam, wanita tangguh penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000120585/41000120585.jpg",
+    "chapterCount": 71,
+    "playCount": "93.8K",
+    "tags": [
+      "Melawan Balik",
+      "Balas Dendam",
+      "Wanita Tangguh"
+    ],
+    "genre": "Melawan Balik"
+  },
+  {
+    "bookId": "42000031819",
+    "bookName": "Realita Cinta Membara",
+    "introduction": "Realita Cinta Membara adalah drama pendek viral kategori Realitas dari DramaBox. Kisah realitas, keluarga, drama penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031819/42000031819.jpg",
+    "chapterCount": 82,
+    "playCount": "93.8K",
+    "tags": [
+      "Realitas",
+      "Keluarga",
+      "Drama"
+    ],
+    "genre": "Realitas"
+  },
+  {
+    "bookId": "42000030784",
+    "bookName": "Ketika Salah Mengerti Bertemu Tetangga",
+    "introduction": "Ketika Salah Mengerti Bertemu Tetangga adalah drama pendek viral kategori Salah Paham dari DramaBox. Kisah salah paham, romansa, komedi penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000030784/42000030784.jpg",
+    "chapterCount": 72,
+    "playCount": "93.7K",
+    "tags": [
+      "Salah Paham",
+      "Romansa",
+      "Komedi"
+    ],
+    "genre": "Salah Paham"
+  },
+  {
+    "bookId": "42000031127",
+    "bookName": "Naga Milik Pria Misterius",
+    "introduction": "Naga Milik Pria Misterius adalah drama pendek viral kategori Naga dari DramaBox. Kisah naga, kekuatan super, fantasi penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031127/42000031127.jpg",
+    "chapterCount": 55,
+    "playCount": "93.7K",
+    "tags": [
+      "Naga",
+      "Kekuatan Super",
+      "Fantasi"
+    ],
+    "genre": "Naga"
+  },
+  {
+    "bookId": "41000121666",
+    "bookName": "Ayah Jati Diri Tersembunyi Yang Tak Terduga",
+    "introduction": "Ayah Jati Diri Tersembunyi Yang Tak Terduga adalah drama pendek viral kategori Identitas Tersembunyi dari DramaBox. Kisah identitas tersembunyi, ceo, balas dendam penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000121666/41000121666.jpg",
+    "chapterCount": 48,
+    "playCount": "93.6K",
+    "tags": [
+      "Identitas Tersembunyi",
+      "CEO",
+      "Balas Dendam"
+    ],
+    "genre": "Identitas Tersembunyi"
+  },
+  {
+    "bookId": "42000031322",
+    "bookName": "Misteri Cinta dan Raja Membara",
+    "introduction": "Misteri Cinta dan Raja Membara adalah drama pendek viral kategori Misteri dari DramaBox. Kisah misteri, romansa, thriller penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031322/42000031322.jpg",
+    "chapterCount": 99,
+    "playCount": "93.6K",
+    "tags": [
+      "Misteri",
+      "Romansa",
+      "Thriller"
+    ],
+    "genre": "Misteri"
+  },
+  {
+    "bookId": "41000120692",
+    "bookName": "Kawin Dulu Yang Menyakitkan - Dokter Ganteng",
+    "introduction": "Kawin Dulu Yang Menyakitkan - Dokter Ganteng adalah drama pendek viral kategori Nikah Dulu Cinta Belakangan dari DramaBox. Kisah nikah dulu cinta belakangan, romansa, keluarga penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000120692/41000120692.jpg",
+    "chapterCount": 75,
+    "playCount": "93.4K",
+    "tags": [
+      "Nikah Dulu Cinta Belakangan",
+      "Romansa",
+      "Keluarga"
+    ],
+    "genre": "Nikah Dulu Cinta Belakangan"
+  },
+  {
+    "bookId": "42000026716",
+    "bookName": "Sihir Curian, Takdir Berdarah",
+    "introduction": "Sihir Curian, Takdir Berdarah adalah drama pendek viral kategori Kelahiran Kembali dari DramaBox. Kisah kelahiran kembali, balas dendam, romansa penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000026716/42000026716.jpg",
+    "chapterCount": 57,
+    "playCount": "93.4K",
+    "tags": [
+      "Kelahiran Kembali",
+      "Balas Dendam",
+      "Romansa"
+    ],
+    "genre": "Kelahiran Kembali"
+  },
+  {
+    "bookId": "42000031764",
+    "bookName": "Identitas Tertukar Yang Hilang - Pangeran",
+    "introduction": "Identitas Tertukar Yang Hilang - Pangeran adalah drama pendek viral kategori Identitas Tertukar dari DramaBox. Kisah identitas tertukar, romansa, keluarga penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031764/42000031764.jpg",
+    "chapterCount": 50,
+    "playCount": "93.1K",
+    "tags": [
+      "Identitas Tertukar",
+      "Romansa",
+      "Keluarga"
+    ],
+    "genre": "Identitas Tertukar"
+  },
+  {
+    "bookId": "41000120159",
+    "bookName": "Bos Miliarder Naga Emas Yang Setia",
+    "introduction": "Bos Miliarder Naga Emas Yang Setia adalah drama pendek viral kategori Miliarder dari DramaBox. Kisah miliarder, ceo, romansa penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000120159/41000120159.jpg",
+    "chapterCount": 66,
+    "playCount": "92.9K",
+    "tags": [
+      "Miliarder",
+      "CEO",
+      "Romansa"
+    ],
+    "genre": "Miliarder"
+  },
+  {
+    "bookId": "41000121855",
+    "bookName": "Tertukar Raja Abadi",
+    "introduction": "Tertukar Raja Abadi adalah drama pendek viral kategori Identitas Tertukar dari DramaBox. Kisah identitas tertukar, romansa, keluarga penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000121855/41000121855.jpg",
+    "chapterCount": 98,
+    "playCount": "92.9K",
+    "tags": [
+      "Identitas Tertukar",
+      "Romansa",
+      "Keluarga"
+    ],
+    "genre": "Identitas Tertukar"
+  },
+  {
+    "bookId": "41000120008",
+    "bookName": "Mafia Kejam Cinta Sejati Tanpa Cinta",
+    "introduction": "Mafia Kejam Cinta Sejati Tanpa Cinta adalah drama pendek viral kategori Romansa dari DramaBox. Kisah romansa, ceo, cinta penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000120008/41000120008.jpg",
+    "chapterCount": 63,
+    "playCount": "92.9K",
+    "tags": [
+      "Romansa",
+      "CEO",
+      "Cinta"
+    ],
+    "genre": "Romansa"
+  },
+  {
+    "bookId": "42000031724",
+    "bookName": "Dewi Cinta: Orang Kuat Kembali Yang Terlupakan",
+    "introduction": "Dewi Cinta: Orang Kuat Kembali Yang Terlupakan adalah drama pendek viral kategori Kembali Orang Kuat dari DramaBox. Kisah kembali orang kuat, kekuatan super, balas dendam penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031724/42000031724.jpg",
+    "chapterCount": 59,
+    "playCount": "92.6K",
+    "tags": [
+      "Kembali Orang Kuat",
+      "Kekuatan Super",
+      "Balas Dendam"
+    ],
+    "genre": "Kembali Orang Kuat"
+  },
+  {
+    "bookId": "41000121649",
+    "bookName": "Identitas Tersembunyi Milik Dewi Cinta",
+    "introduction": "Identitas Tersembunyi Milik Dewi Cinta adalah drama pendek viral kategori Identitas Tersembunyi dari DramaBox. Kisah identitas tersembunyi, ceo, balas dendam penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000121649/41000121649.jpg",
+    "chapterCount": 81,
+    "playCount": "92.5K",
+    "tags": [
+      "Identitas Tersembunyi",
+      "CEO",
+      "Balas Dendam"
+    ],
+    "genre": "Identitas Tersembunyi"
+  },
+  {
+    "bookId": "42000031852",
+    "bookName": "Naga Emas: Bertemu Kembali Yang Terlarang",
+    "introduction": "Naga Emas: Bertemu Kembali Yang Terlarang adalah drama pendek viral kategori Reuni dari DramaBox. Kisah reuni, romansa, ceo penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031852/42000031852.jpg",
+    "chapterCount": 79,
+    "playCount": "92.4K",
+    "tags": [
+      "Reuni",
+      "Romansa",
+      "CEO"
+    ],
+    "genre": "Reuni"
+  },
+  {
+    "bookId": "42000031198",
+    "bookName": "Terlahir Kembali Ayah Terakhir",
+    "introduction": "Terlahir Kembali Ayah Terakhir adalah drama pendek viral kategori Kebangkitan dari DramaBox. Kisah kebangkitan, balas dendam, kekuatan super penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031198/42000031198.jpg",
+    "chapterCount": 51,
+    "playCount": "92.3K",
+    "tags": [
+      "Kebangkitan",
+      "Balas Dendam",
+      "Kekuatan Super"
+    ],
+    "genre": "Kebangkitan"
+  },
+  {
+    "bookId": "42000030777",
+    "bookName": "Misskom Terakhir - Mantan",
+    "introduction": "Misskom Terakhir - Mantan adalah drama pendek viral kategori Salah Paham dari DramaBox. Kisah salah paham, romansa, komedi penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000030777/42000030777.jpg",
+    "chapterCount": 69,
+    "playCount": "92.1K",
+    "tags": [
+      "Salah Paham",
+      "Romansa",
+      "Komedi"
+    ],
+    "genre": "Salah Paham"
+  },
+  {
+    "bookId": "41000120083",
+    "bookName": "Raja Iblis: Si Kecil Penuh Air Mata",
+    "introduction": "Raja Iblis: Si Kecil Penuh Air Mata adalah drama pendek viral kategori Bayi dari DramaBox. Kisah bayi, keluarga, romansa penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000120083/41000120083.jpg",
+    "chapterCount": 66,
+    "playCount": "91.9K",
+    "tags": [
+      "Bayi",
+      "Keluarga",
+      "Romansa"
+    ],
+    "genre": "Bayi"
+  },
+  {
+    "bookId": "42000031072",
+    "bookName": "Ketika Menantu Miskin Bertemu Ratu",
+    "introduction": "Ketika Menantu Miskin Bertemu Ratu adalah drama pendek viral kategori Menantu Matrilineal dari DramaBox. Kisah menantu matrilineal, keluarga, balas dendam penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031072/42000031072.jpg",
+    "chapterCount": 44,
+    "playCount": "91.9K",
+    "tags": [
+      "Menantu Matrilineal",
+      "Keluarga",
+      "Balas Dendam"
+    ],
+    "genre": "Menantu Matrilineal"
+  },
+  {
+    "bookId": "41000120204",
+    "bookName": "Atasan Wanita Tangguh Membara",
+    "introduction": "Atasan Wanita Tangguh Membara adalah drama pendek viral kategori Wanita Tangguh dari DramaBox. Kisah wanita tangguh, balas dendam, ceo penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000120204/41000120204.jpg",
+    "chapterCount": 80,
+    "playCount": "91.8K",
+    "tags": [
+      "Wanita Tangguh",
+      "Balas Dendam",
+      "CEO"
+    ],
+    "genre": "Wanita Tangguh"
+  },
+  {
+    "bookId": "42000030598",
+    "bookName": "Ratu: Ratu CEO Abadi",
+    "introduction": "Ratu: Ratu CEO Abadi adalah drama pendek viral kategori CEO Wanita dari DramaBox. Kisah ceo wanita, romansa, wanita tangguh penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000030598/42000030598.jpg",
+    "chapterCount": 57,
+    "playCount": "91.5K",
+    "tags": [
+      "CEO Wanita",
+      "Romansa",
+      "Wanita Tangguh"
+    ],
+    "genre": "CEO Wanita"
+  },
+  {
+    "bookId": "41000120184",
+    "bookName": "Miliarder: Miliarder Penuh Air Mata",
+    "introduction": "Miliarder: Miliarder Penuh Air Mata adalah drama pendek viral kategori Miliarder dari DramaBox. Kisah miliarder, ceo, romansa penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000120184/41000120184.jpg",
+    "chapterCount": 60,
+    "playCount": "91.5K",
+    "tags": [
+      "Miliarder",
+      "CEO",
+      "Romansa"
+    ],
+    "genre": "Miliarder"
+  },
+  {
+    "bookId": "41000120262",
+    "bookName": "Nikah Kontrak Penuh Air Mata - Duda Tampan",
+    "introduction": "Nikah Kontrak Penuh Air Mata - Duda Tampan adalah drama pendek viral kategori Kawin Kontrak dari DramaBox. Kisah kawin kontrak, romansa, ceo penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000120262/41000120262.jpg",
+    "chapterCount": 94,
+    "playCount": "91.4K",
+    "tags": [
+      "Kawin Kontrak",
+      "Romansa",
+      "CEO"
+    ],
+    "genre": "Kawin Kontrak"
+  },
+  {
+    "bookId": "42000031133",
+    "bookName": "Kekuatan Tersembunyi Yang Kembali - Sekretaris",
+    "introduction": "Kekuatan Tersembunyi Yang Kembali - Sekretaris adalah drama pendek viral kategori Kekuatan Super dari DramaBox. Kisah kekuatan super, fantasi, urban penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031133/42000031133.jpg",
+    "chapterCount": 97,
+    "playCount": "91.4K",
+    "tags": [
+      "Kekuatan Super",
+      "Fantasi",
+      "Urban"
+    ],
+    "genre": "Kekuatan Super"
+  },
+  {
+    "bookId": "42000031119",
+    "bookName": "Cinta Beracun Milik Naga Emas",
+    "introduction": "Cinta Beracun Milik Naga Emas adalah drama pendek viral kategori Cinta Pahit dari DramaBox. Kisah cinta pahit, romansa, air mata penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031119/42000031119.jpg",
+    "chapterCount": 77,
+    "playCount": "91.2K",
+    "tags": [
+      "Cinta Pahit",
+      "Romansa",
+      "Air Mata"
+    ],
+    "genre": "Cinta Pahit"
+  },
+  {
+    "bookId": "42000031385",
+    "bookName": "Ketika Pernikahan Mendadak Bertemu Sahabat",
+    "introduction": "Ketika Pernikahan Mendadak Bertemu Sahabat adalah drama pendek viral kategori Pernikahan Kilat dari DramaBox. Kisah pernikahan kilat, romansa, ceo penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031385/42000031385.jpg",
+    "chapterCount": 69,
+    "playCount": "91.1K",
+    "tags": [
+      "Pernikahan Kilat",
+      "Romansa",
+      "CEO"
+    ],
+    "genre": "Pernikahan Kilat"
+  },
+  {
+    "bookId": "42000031231",
+    "bookName": "Tabib Sakti dan Putri Yang Terlupakan",
+    "introduction": "Tabib Sakti dan Putri Yang Terlupakan adalah drama pendek viral kategori Dokter Dewa dari DramaBox. Kisah dokter dewa, kekuatan super, urban penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031231/42000031231.jpg",
+    "chapterCount": 43,
+    "playCount": "90.7K",
+    "tags": [
+      "Dokter Dewa",
+      "Kekuatan Super",
+      "Urban"
+    ],
+    "genre": "Dokter Dewa"
+  },
+  {
+    "bookId": "41000120058",
+    "bookName": "Ketika Dendam Kesumat Bertemu Bayi Ajaib",
+    "introduction": "Ketika Dendam Kesumat Bertemu Bayi Ajaib adalah drama pendek viral kategori Balas Dendam dari DramaBox. Kisah balas dendam, ceo, keluarga penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000120058/41000120058.jpg",
+    "chapterCount": 74,
+    "playCount": "90.5K",
     "tags": [
       "Balas Dendam",
       "CEO",
       "Keluarga"
-    ]
+    ],
+    "genre": "Balas Dendam"
   },
   {
-    "bookId": "42000029551",
-    "bookName": "Godaan Pria Misterius Di Ujung Malam",
-    "introduction": "Godaan Pria Misterius Di Ujung Malam adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://s3.amazonaws.com/dramabox/cover/42000029551.jpg",
-    "chapterCount": 48,
-    "playCount": "82.8K",
+    "bookId": "41000120252",
+    "bookName": "Kontrak Pernikahan Yang Kedua",
+    "introduction": "Kontrak Pernikahan Yang Kedua adalah drama pendek viral kategori Kawin Kontrak dari DramaBox. Kisah kawin kontrak, romansa, ceo penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000120252/41000120252.jpg",
+    "chapterCount": 69,
+    "playCount": "90.5K",
     "tags": [
-      "CEO",
-      "Pernikahan Paksa",
-      "Romansa"
-    ]
-  },
-  {
-    "bookId": "42000029412",
-    "bookName": "Kisah Pewaris Tahta",
-    "introduction": "Kisah Pewaris Tahta adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000029412/42000029412.jpg",
-    "chapterCount": 83,
-    "playCount": "82.6K",
-    "tags": [
-      "Balas Dendam",
+      "Kawin Kontrak",
       "Romansa",
-      "CEO Dingin"
-    ]
-  },
-  {
-    "bookId": "41000110323",
-    "bookName": "Rahasia Tanpa Cinta - Bawahan",
-    "introduction": "Rahasia Tanpa Cinta - Bawahan adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000110323/41000110323.jpg",
-    "chapterCount": 54,
-    "playCount": "82.6K",
-    "tags": [
-      "Werewolf",
-      "Romansa",
-      "Fantasi"
-    ]
-  },
-  {
-    "bookId": "42000030256",
-    "bookName": "Kontrak Pernikahan Suami Dingin",
-    "introduction": "Kontrak Pernikahan Suami Dingin adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://s3.amazonaws.com/dramabox/cover/42000030256.jpg",
-    "chapterCount": 52,
-    "playCount": "82.3K",
-    "tags": [
-      "Mafia",
-      "CEO",
-      "Pernikahan Kontrak"
-    ]
-  },
-  {
-    "bookId": "42000030027",
-    "bookName": "Takdir Sahabat Yang Hilang",
-    "introduction": "Takdir Sahabat Yang Hilang adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000030027/42000030027.jpg",
-    "chapterCount": 81,
-    "playCount": "82.2K",
-    "tags": [
-      "Romansa",
-      "Dokter",
       "CEO"
-    ]
+    ],
+    "genre": "Kawin Kontrak"
   },
   {
-    "bookId": "42000029445",
-    "bookName": "Suami Anak Haram",
-    "introduction": "Suami Anak Haram adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000029445/42000029445.jpg",
-    "chapterCount": 66,
-    "playCount": "82.1K",
+    "bookId": "42000011027",
+    "bookName": "Roda Nasib Sang Menantu",
+    "introduction": "Roda Nasib Sang Menantu adalah drama pendek viral kategori Miliarder dari DramaBox. Kisah miliarder, ceo, romansa penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000011027/42000011027.jpg",
+    "chapterCount": 85,
+    "playCount": "90.4K",
     "tags": [
+      "Miliarder",
       "CEO",
-      "Pernikahan Paksa",
       "Romansa"
-    ]
+    ],
+    "genre": "Miliarder"
   },
   {
-    "bookId": "42000029605",
-    "bookName": "Godaan Yang Kembali - Miliarder",
-    "introduction": "Godaan Yang Kembali - Miliarder adalah drama pendek viral dari DramaBox. Kisah cinta, konflik keluarga, dan rahasia masa lalu yang membuat penonton baper. Ditonton jutaan kali, dengan plot twist tak terduga di setiap episode. Jangan lewatkan episode terbaru hanya di Drama.ID!",
-    "cover": "https://s3.amazonaws.com/dramabox/cover/42000029605.jpg",
-    "chapterCount": 92,
-    "playCount": "81.9K",
+    "bookId": "41000120517",
+    "bookName": "Jagoan Alpha Dominan Penuh Air Mata",
+    "introduction": "Jagoan Alpha Dominan Penuh Air Mata adalah drama pendek viral kategori Orang Kuat dari DramaBox. Kisah orang kuat, kekuatan super, balas dendam penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000120517/41000120517.jpg",
+    "chapterCount": 90,
+    "playCount": "90.3K",
+    "tags": [
+      "Orang Kuat",
+      "Kekuatan Super",
+      "Balas Dendam"
+    ],
+    "genre": "Orang Kuat"
+  },
+  {
+    "bookId": "42000031441",
+    "bookName": "Khianat Yang Kedua - Alpha Dominan",
+    "introduction": "Khianat Yang Kedua - Alpha Dominan adalah drama pendek viral kategori Pengkhianatan dari DramaBox. Kisah pengkhianatan, balas dendam, romansa penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031441/42000031441.jpg",
+    "chapterCount": 72,
+    "playCount": "90.2K",
+    "tags": [
+      "Pengkhianatan",
+      "Balas Dendam",
+      "Romansa"
+    ],
+    "genre": "Pengkhianatan"
+  },
+  {
+    "bookId": "42000031346",
+    "bookName": "Ketika Dikhianati Bertemu Raja Iblis",
+    "introduction": "Ketika Dikhianati Bertemu Raja Iblis adalah drama pendek viral kategori Pengkhianatan dari DramaBox. Kisah pengkhianatan, balas dendam, romansa penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031346/42000031346.jpg",
+    "chapterCount": 101,
+    "playCount": "90.0K",
+    "tags": [
+      "Pengkhianatan",
+      "Balas Dendam",
+      "Romansa"
+    ],
+    "genre": "Pengkhianatan"
+  },
+  {
+    "bookId": "41000121973",
+    "bookName": "Kembali Bertemu Milik Presdir",
+    "introduction": "Kembali Bertemu Milik Presdir adalah drama pendek viral kategori Reuni dari DramaBox. Kisah reuni, romansa, ceo penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000121973/41000121973.jpg",
+    "chapterCount": 62,
+    "playCount": "90.0K",
+    "tags": [
+      "Reuni",
+      "Romansa",
+      "CEO"
+    ],
+    "genre": "Reuni"
+  },
+  {
+    "bookId": "42000031114",
+    "bookName": "Cinta Pahit Naga Emas",
+    "introduction": "Cinta Pahit Naga Emas adalah drama pendek viral kategori Cinta Pahit dari DramaBox. Kisah cinta pahit, romansa, air mata penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031114/42000031114.jpg",
+    "chapterCount": 99,
+    "playCount": "89.9K",
+    "tags": [
+      "Cinta Pahit",
+      "Romansa",
+      "Air Mata"
+    ],
+    "genre": "Cinta Pahit"
+  },
+  {
+    "bookId": "42000030126",
+    "bookName": "Raja Iblis: Amarah Yang Sesungguhnya",
+    "introduction": "Raja Iblis: Amarah Yang Sesungguhnya adalah drama pendek viral kategori Balas Dendam dari DramaBox. Kisah balas dendam, ceo, keluarga penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000030126/42000030126.jpg",
+    "chapterCount": 56,
+    "playCount": "89.8K",
     "tags": [
       "Balas Dendam",
+      "CEO",
+      "Keluarga"
+    ],
+    "genre": "Balas Dendam"
+  },
+  {
+    "bookId": "41000121682",
+    "bookName": "Darah Keluarga Mantan Tanpa Cinta",
+    "introduction": "Darah Keluarga Mantan Tanpa Cinta adalah drama pendek viral kategori Keluarga dari DramaBox. Kisah keluarga, romansa, air mata penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000121682/41000121682.jpg",
+    "chapterCount": 68,
+    "playCount": "89.8K",
+    "tags": [
+      "Keluarga",
       "Romansa",
-      "CEO Dingin"
-    ]
+      "Air Mata"
+    ],
+    "genre": "Keluarga"
+  },
+  {
+    "bookId": "42000031180",
+    "bookName": "Bangkit dan Pangeran Untuk Selamanya",
+    "introduction": "Bangkit dan Pangeran Untuk Selamanya adalah drama pendek viral kategori Kebangkitan dari DramaBox. Kisah kebangkitan, balas dendam, kekuatan super penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031180/42000031180.jpg",
+    "chapterCount": 53,
+    "playCount": "89.7K",
+    "tags": [
+      "Kebangkitan",
+      "Balas Dendam",
+      "Kekuatan Super"
+    ],
+    "genre": "Kebangkitan"
+  },
+  {
+    "bookId": "41000120612",
+    "bookName": "Bangkit Melawan Abadi",
+    "introduction": "Bangkit Melawan Abadi adalah drama pendek viral kategori Melawan Balik dari DramaBox. Kisah melawan balik, balas dendam, wanita tangguh penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000120612/41000120612.jpg",
+    "chapterCount": 84,
+    "playCount": "89.7K",
+    "tags": [
+      "Melawan Balik",
+      "Balas Dendam",
+      "Wanita Tangguh"
+    ],
+    "genre": "Melawan Balik"
+  },
+  {
+    "bookId": "42000031642",
+    "bookName": "Keluarga Milik Raja Iblis",
+    "introduction": "Keluarga Milik Raja Iblis adalah drama pendek viral kategori Keluarga dari DramaBox. Kisah keluarga, romansa, air mata penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031642/42000031642.jpg",
+    "chapterCount": 52,
+    "playCount": "89.7K",
+    "tags": [
+      "Keluarga",
+      "Romansa",
+      "Air Mata"
+    ],
+    "genre": "Keluarga"
+  },
+  {
+    "bookId": "41000120653",
+    "bookName": "Dua Hati Untuk Selamanya - Putri",
+    "introduction": "Dua Hati Untuk Selamanya - Putri adalah drama pendek viral kategori Cinta Segitiga dari DramaBox. Kisah cinta segitiga, romansa, drama penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000120653/41000120653.jpg",
+    "chapterCount": 67,
+    "playCount": "89.5K",
+    "tags": [
+      "Cinta Segitiga",
+      "Romansa",
+      "Drama"
+    ],
+    "genre": "Cinta Segitiga"
+  },
+  {
+    "bookId": "41000120379",
+    "bookName": "Lahir Kembali Presdir Yang Sesungguhnya",
+    "introduction": "Lahir Kembali Presdir Yang Sesungguhnya adalah drama pendek viral kategori Kelahiran Kembali dari DramaBox. Kisah kelahiran kembali, balas dendam, romansa penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000120379/41000120379.jpg",
+    "chapterCount": 79,
+    "playCount": "89.5K",
+    "tags": [
+      "Kelahiran Kembali",
+      "Balas Dendam",
+      "Romansa"
+    ],
+    "genre": "Kelahiran Kembali"
+  },
+  {
+    "bookId": "42000030886",
+    "bookName": "Presdir: Madu Yang Menyakitkan",
+    "introduction": "Presdir: Madu Yang Menyakitkan adalah drama pendek viral kategori Manis dari DramaBox. Kisah manis, romansa, komedi penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000030886/42000030886.jpg",
+    "chapterCount": 60,
+    "playCount": "89.5K",
+    "tags": [
+      "Manis",
+      "Romansa",
+      "Komedi"
+    ],
+    "genre": "Manis"
+  },
+  {
+    "bookId": "42000030942",
+    "bookName": "Dokter Legendaris dan Bayi Ajaib Yang Tak Terduga",
+    "introduction": "Dokter Legendaris dan Bayi Ajaib Yang Tak Terduga adalah drama pendek viral kategori Dokter Dewa dari DramaBox. Kisah dokter dewa, kekuatan super, urban penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000030942/42000030942.jpg",
+    "chapterCount": 77,
+    "playCount": "89.3K",
+    "tags": [
+      "Dokter Dewa",
+      "Kekuatan Super",
+      "Urban"
+    ],
+    "genre": "Dokter Dewa"
+  },
+  {
+    "bookId": "42000031046",
+    "bookName": "Dewi dan Alpha Dominan Dalam Diam",
+    "introduction": "Dewi dan Alpha Dominan Dalam Diam adalah drama pendek viral kategori Wanita Tangguh dari DramaBox. Kisah wanita tangguh, balas dendam, ceo penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031046/42000031046.jpg",
+    "chapterCount": 85,
+    "playCount": "89.1K",
+    "tags": [
+      "Wanita Tangguh",
+      "Balas Dendam",
+      "CEO"
+    ],
+    "genre": "Wanita Tangguh"
+  },
+  {
+    "bookId": "41000121670",
+    "bookName": "Mantan: Penyamaran Sempurna Untuk Selamanya",
+    "introduction": "Mantan: Penyamaran Sempurna Untuk Selamanya adalah drama pendek viral kategori Identitas Tersembunyi dari DramaBox. Kisah identitas tersembunyi, ceo, balas dendam penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000121670/41000121670.jpg",
+    "chapterCount": 93,
+    "playCount": "89.1K",
+    "tags": [
+      "Identitas Tersembunyi",
+      "CEO",
+      "Balas Dendam"
+    ],
+    "genre": "Identitas Tersembunyi"
+  },
+  {
+    "bookId": "41000121297",
+    "bookName": "Teka-teki Penuh Air Mata - Mantan",
+    "introduction": "Teka-teki Penuh Air Mata - Mantan adalah drama pendek viral kategori Misteri dari DramaBox. Kisah misteri, romansa, thriller penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000121297/41000121297.jpg",
+    "chapterCount": 92,
+    "playCount": "89.1K",
+    "tags": [
+      "Misteri",
+      "Romansa",
+      "Thriller"
+    ],
+    "genre": "Misteri"
+  },
+  {
+    "bookId": "42000031265",
+    "bookName": "Naga Emas Urban Mematikan",
+    "introduction": "Naga Emas Urban Mematikan adalah drama pendek viral kategori Urban dari DramaBox. Kisah urban, ceo, romansa penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031265/42000031265.jpg",
+    "chapterCount": 87,
+    "playCount": "89.0K",
+    "tags": [
+      "Urban",
+      "CEO",
+      "Romansa"
+    ],
+    "genre": "Urban"
+  },
+  {
+    "bookId": "41000121565",
+    "bookName": "Dewi Cinta Dikhianati Mematikan",
+    "introduction": "Dewi Cinta Dikhianati Mematikan adalah drama pendek viral kategori Pengkhianatan dari DramaBox. Kisah pengkhianatan, balas dendam, romansa penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000121565/41000121565.jpg",
+    "chapterCount": 76,
+    "playCount": "88.9K",
+    "tags": [
+      "Pengkhianatan",
+      "Balas Dendam",
+      "Romansa"
+    ],
+    "genre": "Pengkhianatan"
+  },
+  {
+    "bookId": "41000121720",
+    "bookName": "Orang Kuat Kembali dan Sekretaris Pertama",
+    "introduction": "Orang Kuat Kembali dan Sekretaris Pertama adalah drama pendek viral kategori Kembali Orang Kuat dari DramaBox. Kisah kembali orang kuat, kekuatan super, balas dendam penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000121720/41000121720.jpg",
+    "chapterCount": 102,
+    "playCount": "88.4K",
+    "tags": [
+      "Kembali Orang Kuat",
+      "Kekuatan Super",
+      "Balas Dendam"
+    ],
+    "genre": "Kembali Orang Kuat"
+  },
+  {
+    "bookId": "41000121286",
+    "bookName": "Miliarder Misteri Keluarga Membara",
+    "introduction": "Miliarder Misteri Keluarga Membara adalah drama pendek viral kategori Misteri dari DramaBox. Kisah misteri, romansa, thriller penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000121286/41000121286.jpg",
+    "chapterCount": 66,
+    "playCount": "88.3K",
+    "tags": [
+      "Misteri",
+      "Romansa",
+      "Thriller"
+    ],
+    "genre": "Misteri"
+  },
+  {
+    "bookId": "41000121225",
+    "bookName": "Kembali Bangkit Yang Sesungguhnya - Sahabat",
+    "introduction": "Kembali Bangkit Yang Sesungguhnya - Sahabat adalah drama pendek viral kategori Kebangkitan dari DramaBox. Kisah kebangkitan, balas dendam, kekuatan super penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/41000121225/41000121225.jpg",
+    "chapterCount": 81,
+    "playCount": "88.3K",
+    "tags": [
+      "Kebangkitan",
+      "Balas Dendam",
+      "Kekuatan Super"
+    ],
+    "genre": "Kebangkitan"
+  },
+  {
+    "bookId": "42000031137",
+    "bookName": "Mantan Kekuatan Tersembunyi Yang Manis",
+    "introduction": "Mantan Kekuatan Tersembunyi Yang Manis adalah drama pendek viral kategori Kekuatan Super dari DramaBox. Kisah kekuatan super, fantasi, urban penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031137/42000031137.jpg",
+    "chapterCount": 87,
+    "playCount": "88.3K",
+    "tags": [
+      "Kekuatan Super",
+      "Fantasi",
+      "Urban"
+    ],
+    "genre": "Kekuatan Super"
+  },
+  {
+    "bookId": "42000031534",
+    "bookName": "Waktu Kembali Dokter Ganteng Berbahaya",
+    "introduction": "Waktu Kembali Dokter Ganteng Berbahaya adalah drama pendek viral kategori Perjalanan Waktu dari DramaBox. Kisah perjalanan waktu, fantasi, romansa penuh konflik, cinta, dan plot twist tak terduga. Setiap episode bikin baper dan penasaran. Ditonton jutaan kali di dramabox.com/in. Saksikan lengkap hanya di Drama.ID!",
+    "cover": "https://thwztchapter.dramaboxdb.com/cover/42000031534/42000031534.jpg",
+    "chapterCount": 85,
+    "playCount": "88.2K",
+    "tags": [
+      "Perjalanan Waktu",
+      "Fantasi",
+      "Romansa"
+    ],
+    "genre": "Perjalanan Waktu"
   }
 ]
