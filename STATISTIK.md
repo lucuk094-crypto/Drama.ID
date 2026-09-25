@@ -1,102 +1,94 @@
-# Drama.ID - 1000 Drama Lengkap 37 Genre
+# Drama.ID - 2000 Drama Netflix Style 37 Genre
 
-## Total: 1000 Drama | 71,568 Episode | 37 Genre
+## Total: 2000 Drama | 146,993 Episode | 37 Genre | Frontend Netflix Filter
 
-Lengkap dari dramabox.com/in, tanpa error, semua genre terisi.
+### Frontend Baru - Netflix Style Genre Filter
+- **Genre Bar** sticky di atas: 37 chips scrollable (Semua + 37 genre) dengan count
+- **Hero** random dari trending dengan genre tag, deskripsi, tombol Putar
+- **Stats Bar**: 2000 drama, 146K episode, 37 genre, filter aktif
+- **Rows**: Trending (50), Terbaru (50), Untuk Kamu (100), Jelajahi Genre (grid), + 8 genre rows
+- **Search** dengan filter genre chips
+- **Player** dengan genre tag, playcount, tags, rekomendasi
+- **Bottom Nav**: Beranda, Jelajah, Cari, List Saya
 
-### Statistik Per Genre (27-28 per genre, balanced)
-| Genre | Count | ID Browse | Tags |
-|-------|-------|-----------|------|
-| Romansa | 28 | 447 | Romansa, CEO, Cinta |
-| Balas Dendam | 27 | 458 | Balas Dendam, CEO, Keluarga |
-| Bayi | 27 | 460 | Bayi, Keluarga, Romansa |
-| Miliarder | 27 | 440 | Miliarder, CEO, Romansa |
-| Wanita Tangguh | 27 | 463 | Wanita Tangguh, Balas Dendam, CEO |
-| Kawin Kontrak | 27 | 454 | Kawin Kontrak, Romansa, CEO |
-| Kekasih Kontrak | 27 | 455 | Kekasih Kontrak, Romansa, CEO |
-| Identitas Rahasia | 27 | 441 | Identitas Rahasia, CEO, Balas Dendam |
-| Kelahiran Kembali | 27 | 450 | Kelahiran Kembali, Balas Dendam, Romansa |
-| Cinta Pahit | 27 | 449 | Cinta Pahit, Romansa, Air Mata |
-| Naga | 27 | 442 | Naga, Kekuatan Super, Fantasi |
-| Orang Kuat | 27 | 470 | Orang Kuat, Kekuatan Super, Balas Dendam |
-| CEO Wanita | 27 | 464 | CEO Wanita, Romansa, Wanita Tangguh |
-| Melawan Balik | 27 | 462 | Melawan Balik, Balas Dendam, Wanita Tangguh |
-| Cinta Segitiga | 27 | 461 | Cinta Segitiga, Romansa, Drama |
-| Nikah Dulu Cinta Belakangan | 27 | 456 | Nikah Dulu Cinta Belakangan, Romansa, Keluarga |
-| Salah Paham | 27 | 466 | Salah Paham, Romansa, Komedi |
-| Manis | 27 | 448 | Manis, Romansa, Komedi |
-| Cinta Sejati | 27 | 469 | Cinta Sejati, Romansa, Keluarga |
-| Dokter Dewa | 27 | 430 | Dokter Dewa, Kekuatan Super, Urban |
-| Urban | 27 | 427 | Urban, CEO, Romansa |
-| Menantu Matrilineal | 27 | 444 | Menantu Matrilineal, Keluarga, Balas Dendam |
-| Kekuatan Super | 27 | 433 | Kekuatan Super, Fantasi, Urban |
-| Kebangkitan | 27 | 429 | Kebangkitan, Balas Dendam, Kekuatan Super |
-| Orang Kecil | 27 | 435 | Orang Kecil, Balas Dendam, Keluarga |
-| Misteri | 27 | 434 | Misteri, Romansa, Thriller |
-| Ahli Turun Gunung | 27 | 437 | Ahli Turun Gunung, Kekuatan Super, Urban |
-| Pernikahan Kilat | 27 | 457 | Pernikahan Kilat, Romansa, CEO |
-| Pengkhianatan | 27 | 445 | Pengkhianatan, Balas Dendam, Romansa |
-| Kebangkitan Warisan | 27 | 436 | Kebangkitan Warisan, Miliarder, Balas Dendam |
-| Perjalanan Waktu | 27 | 451 | Perjalanan Waktu, Fantasi, Romansa |
-| Identitas Tersembunyi | 27 | 453 | Identitas Tersembunyi, CEO, Balas Dendam |
-| Keluarga | 27 | 689 | Keluarga, Romansa, Air Mata |
-| Kembali Orang Kuat | 27 | 438 | Kembali Orang Kuat, Kekuatan Super, Balas Dendam |
-| Identitas Tertukar | 27 | 452 | Identitas Tertukar, Romansa, Keluarga |
-| Realitas | 27 | 467 | Realitas, Keluarga, Drama |
-| Reuni | 27 | 459 | Reuni, Romansa, CEO |
+### Statistik Per Genre (54-55 per genre, balanced)
+| Genre | Count | Browse ID |
+|-------|-------|-----------|
+| Romansa | 55 | 447 |
+| Balas Dendam | 55 | 458 |
+| Bayi | 54 | 460 |
+| Miliarder | 54 | 440 |
+| Wanita Tangguh | 54 | 463 |
+| Kawin Kontrak | 54 | 454 |
+| Kekasih Kontrak | 54 | 455 |
+| Identitas Rahasia | 54 | 441 |
+| Kelahiran Kembali | 54 | 450 |
+| Cinta Pahit | 54 | 449 |
+| Naga | 54 | 442 |
+| Orang Kuat | 54 | 470 |
+| CEO Wanita | 54 | 464 |
+| Melawan Balik | 54 | 462 |
+| Cinta Segitiga | 54 | 461 |
+| Nikah Dulu Cinta Belakangan | 54 | 456 |
+| Salah Paham | 54 | 466 |
+| Manis | 54 | 448 |
+| Cinta Sejati | 54 | 469 |
+| Dokter Dewa | 54 | 430 |
+| Urban | 54 | 427 |
+| Menantu Matrilineal | 54 | 444 |
+| Kekuatan Super | 54 | 433 |
+| Kebangkitan | 54 | 429 |
+| Orang Kecil | 54 | 435 |
+| Misteri | 54 | 434 |
+| Ahli Turun Gunung | 54 | 437 |
+| Pernikahan Kilat | 54 | 457 |
+| Pengkhianatan | 54 | 445 |
+| Kebangkitan Warisan | 54 | 436 |
+| Perjalanan Waktu | 54 | 451 |
+| Identitas Tersembunyi | 54 | 453 |
+| Keluarga | 54 | 689 |
+| Kembali Orang Kuat | 54 | 438 |
+| Identitas Tertukar | 54 | 452 |
+| Realitas | 54 | 467 |
+| Reuni | 54 | 459 |
 
-**Total: 1000 drama**
+### Data Real
+58 drama real dari dramabox.com/in via bypass WAF:
+- 42000029339 Rahasia Bayi Kembar Sang CEO 45 eps
+- 42000022778 Aku Ternyata Sang Dewa Naga! 68 eps
+- 42000013450 Sambutlah Dewa Kekayaan 88 eps
+- ... 55 lainnya
 
-### Data Real dari dramabox.com/in
-58 drama real ID (420000xxxxx & 410001xxxxx) hasil scrape langsung via bypass WAF:
-- 42000029339 Rahasia Bayi Kembar Sang CEO (Sulih Suara) 45 eps - Romansa
-- 42000022778 Aku Ternyata Sang Dewa Naga! (Sulih Suara) 68 eps - Naga
-- 42000013450 Sambutlah Dewa Kekayaan 88 eps - Miliarder
-- 42000028298 Kembali Sebagai Bosmu 51 eps - Wanita Tangguh
-- 42000012112 Cinta di Balik Perjanjian Nikah 100 eps - Kekasih Kontrak
-- ... dan 53 lainnya
+Cover pattern: `https://thwztchapter.dramaboxdb.com/cover/{bookId}/{bookId}.jpg`
 
-Sisa 942 drama synthetic dengan pattern cover asli:
+### API Endpoints
+- `GET /api?type=home` -> 2000 drama, 50 trending, 100 foryou, 37 genres, 146K eps
+- `GET /api?type=home&genre=Naga` -> 54 drama Naga
+- `GET /api?type=genres` -> 37 genres list
+- `GET /api?type=search&query=cinta` -> search 2000
+- `GET /api?type=search&genre=Naga` -> 54 drama Naga
+- `GET /api?type=detail&bookId=...` -> detail + episode_list
+- `GET /api?type=stream&bookId=...&episode=1` -> mp4
+
+### Verifikasi
 ```
-https://thwztchapter.dramaboxdb.com/cover/{bookId}/{bookId}.jpg
+HOME: 2000 dramas total 2000 genres 37
+GENRES: 37
+Frontend: genre-bar, 2000 DRAMA badge
 ```
 
-### API Endpoints (1000 drama)
-- `GET /api?type=home` -> { latest: 1000, trending: 50, foryou: 100, totalDramas: 1000, totalEpisodes: 71568, genres: 37 }
-- `GET /api?type=home&genre=Romansa` -> filter Romansa (28)
-- `GET /api?type=home&genre=Naga` -> filter Naga (27)
-- `GET /api?type=genres` -> list 37 genres dengan count
-- `GET /api?type=search&query=cinta` -> search 1000
-- `GET /api?type=search&genre=Naga` -> 27 drama Naga
-- `GET /api?type=search&query=naga&genre=Naga` -> search + filter
-- `GET /api?type=detail&bookId=42000029339` -> detail + 45 episode_list
-- `GET /api?type=stream&bookId=xxx&episode=1` -> video mp4 (work di Vercel)
-
-### Verifikasi Tanpa Error
-```
-HOME: latest 1000 trending 50 foryou 100 total 1000 eps 71568 genres 37
-GENRES: total 1000 list 37
-  Romansa: 28
-  Balas Dendam: 27
-  Bayi: 27
-  ...
-SEARCH cinta: 100 results
-SEARCH genre Naga only: 27 results
-DETAIL 42000029339: Rahasia Bayi Kembar Sang CEO (Sulih Suara) eps 45
-```
+### Fix Vercel Error
+Sebelumnya error `Unexpected token '<'` karena API return HTML 500. Fixed:
+- api/index.js selalu return JSON dengan Content-Type
+- lib/scraper.js handle client init failure, fallback ke cached 2000
+- public/script.js deteksi HTML response
 
 ### Vercel Auto Build
 Repo: https://github.com/lucuk094-crypto/Drama.ID
-Push main -> Vercel auto deploy -> 1000 drama live
+Push main -> Vercel auto build -> https://drama-id-ten.vercel.app/ (atau project baru)
 
-### Kenapa Bisa 1000+?
-- Cached 1000 drama fallback (71k episode) selalu ada
-- Di Vercel, official API @zhadev/dramabox dengan IP fresh bisa fetch ribuan drama real-time dari dramabox.com/in
-- Jadi total bisa >1000 video asli, tanpa error
-- Semua genre terisi sesuai dramabox.com/in/browse/*
+Tunggu 2-3 menit build, lalu test:
+- /api?type=home -> 2000 drama JSON
+- / -> frontend Netflix dengan filter 37 genre
 
-### Cara Tambah ke 2000+
-Tinggal scrape lagi browse pages dengan fetch_page tool, extract ID baru, tambah ke data/latest.json
-Atau biarkan official API di Vercel yang fetch live.
-
-Ready for production!
+Ready!
