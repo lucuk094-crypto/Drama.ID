@@ -21,23 +21,47 @@ function showError(msg) {
 
 async function init() {
     try {
+        console.log('Fetching home data...');
         const res = await fetch(`${API_URL}?type=home`);
-        if (!res.ok) throw new Error(`Server Error: ${res.status}`);
         
-        const data = await res.json();
+        // Check if response is HTML (Vercel error)
+        const contentType = res.headers.get('content-type') || '';
+        const text = await res.text();
+        
+        if (text.trim().startsWith('<')) {
+            console.error('API returned HTML instead of JSON:', text.substring(0, 500));
+            throw new Error(`API Error: Server returned HTML (Status ${res.status}). Vercel function mungkin crash. Cek logs di Vercel Dashboard. Response: ${text.substring(0, 100)}`);
+        }
+        
+        let data;
+        try {
+            data = JSON.parse(text);
+        } catch (parseErr) {
+            console.error('Failed to parse JSON:', text.substring(0, 500));
+            throw new Error(`Invalid JSON: ${parseErr.message} - Response: ${text.substring(0, 100)}`);
+        }
+        
+        if (!res.ok) {
+            throw new Error(`Server Error ${res.status}: ${data.error || 'Unknown'}`);
+        }
+        
+        if (data.success === false && !data.latest) {
+            throw new Error(data.error || 'API returned success=false');
+        }
         
         if (!data.latest || data.latest.length === 0) {
             throw new Error("Data Kosong. Coba lagi nanti.");
         }
 
         if (data.source) {
-            document.getElementById('source-info').innerText = `Source: ${data.source}`;
+            document.getElementById('source-info').innerText = `Source: ${data.source} | Total: ${data.totalDramas || data.latest.length} drama`;
         }
 
+        console.log(`Loaded ${data.latest.length} dramas, ${data.totalDramas} total`);
         renderHome(data);
     } catch (e) {
-        console.error(e);
-        showError(`Gagal memuat data: ${e.message} - Pastikan API dari dramabox.com/in aktif`);
+        console.error('Init error:', e);
+        showError(`Gagal memuat data: ${e.message}`);
     } finally {
         loader.classList.add('hidden');
     }
